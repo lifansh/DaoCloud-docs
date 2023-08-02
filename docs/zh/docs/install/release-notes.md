@@ -7,7 +7,7 @@
 ### v0.9.0
 
 #### 新增
-
+1111111
 - **新增** `istio-ingressgateway` 支持了高可用模式，从 v0.8.x 及以前升级到 v0.9.0 时必须执行如下命令：`./offline/dce5-installer cluster-create -c clusterConfig.yaml -m manifest.yaml --upgrade infrastructure,gproduct`
 - **新增** 支持在 clusterConfig.yaml 中配置暴露 火种 kind 地址及端口
 - **新增** 安装器在启用画眉存储时，新增前置检查各个节点是否安装 lvm2
